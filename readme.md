@@ -1,8 +1,7 @@
 ## Olá, eu sou a Claudia Assis
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estudando JavaScript
-- 😄 Pronouns: ela/dela
+ Atualmente estou estudando o curso de Sistemas de Informação - SI; e estudando desenvolvimento web - front-end.
+ Estou constantemente aprendendo coisas novas e buscando novos desafios na área de tecnologia onde posso por em prática tudo que aprendi. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
 
 <div> 
   <a href="https://instagram.com/claudia.aassis">
@@ -95,14 +94,28 @@
 
 ### 📊 Estatísticas
 
-<p>
+<Div>
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="180" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=claudiaassiss&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
+  <a href="https://github.com/claudiaassiss/github-readme-stats">
+    <img 
+      align="left"
+      alt="GitHub Stats"
+      height="180"
+      style="padding-right: 10px"
+      src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=claudiaassiss&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages"
+      />
+  </a>
+</Div>
 
-
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+</picture>
 
