@@ -5,9 +5,24 @@
 - 😄 Pronouns: ela/dela
 
 <div> 
-  <a href="https://instagram.com/claudia.aassis" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "claudiaalmeida22456@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/claudia-almeida-53a46831b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/claudia.aassis">
+        <img
+            alt="instagram"
+            title="Instagram"
+            src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blanck"
+        />
+  <a href = "claudiaalmeida22456@gmail.com">
+        <img
+            alt="gmail"
+            title="Gmail"
+            src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"
+        />
+  <a href="https://www.linkedin.com/in/claudia-almeida-53a46831b/" target="_blank">
+        <img
+            alt="linkedin"
+            title="Linkedin"
+            src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"
+        />
   <a href="https://github.com/claudiaassiss?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
@@ -95,6 +110,5 @@
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiaassiss&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
 
