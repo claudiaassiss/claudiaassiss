@@ -1,4 +1,4 @@
-## Olá, eu sou a Claudia Assis
+## Oie, eu sou a Claudia
 
  Atualmente estou estudando o curso de Sistemas de Informação - SI; e estudando desenvolvimento web - front-end.
  Estou constantemente aprendendo coisas novas e buscando novos desafios na área de tecnologia onde posso por em prática tudo que aprendi. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
