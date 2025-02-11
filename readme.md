@@ -4,12 +4,6 @@
  Estou constantemente aprendendo coisas novas e buscando novos desafios na área de tecnologia onde posso por em prática tudo que aprendi. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
 
 <div> 
-  <a href="https://instagram.com/claudia.aassis">
-        <img
-            alt="instagram"
-            title="Instagram"
-            src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blanck"
-        />
   <a href = "claudiaalmeida22456@gmail.com">
         <img
             alt="gmail"
