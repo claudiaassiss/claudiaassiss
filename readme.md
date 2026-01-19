@@ -38,8 +38,6 @@ para criar soluções práticas e inovadoras.
 
 ## 🛠️ Linguagens e Tecnologias
 
-## 🛠️ Linguagens e Tecnologias
-
 <img 
     align="left" 
     alt="HTML"
@@ -88,12 +86,7 @@ para criar soluções práticas e inovadoras.
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
-<br/>
-<br/>
-
 <br/><br/>
-
 ---
 
 ## 📊 Estatísticas do GitHub
