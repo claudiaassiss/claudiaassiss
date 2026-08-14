@@ -52,12 +52,12 @@ para criar soluções práticas e inovadoras.
 <div>
   <img 
     height="150" 
-    src="https://github-readme-stats.vercel.app/api?username=claudiaassiss&show_icons=true&theme=tokyonight"
+    src="https://github-stats-extended.vercel.app/api?username=claudiaassiss&show_icons=true&theme=tokyonight"
     alt="Estatísticas do GitHub"
   />
   <img 
     height="150" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiaassiss&layout=compact&langs_count=6&theme=tokyonight"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=claudiaassiss&layout=compact&langs_count=6&theme=tokyonight"
     alt="Linguagens mais usadas"
   />
 </div>
