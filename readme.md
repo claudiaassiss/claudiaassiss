@@ -64,17 +64,3 @@ para criar soluções práticas e inovadoras.
 
 ---
 
-## 🐍 Contribuições
-
-<div>
-  <img 
-    height="180" 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=claudiaassiss&theme=tokyonight"
-    alt="Sequência de contribuições do GitHub"
-  />
-</div>
-
-<img 
-  width="100%"
-  alt="Animação de contribuições do GitHub" 
-  src="https://raw.githubusercontent.com/claudiaassiss/claudiaassiss/output/github-contribution-grid-snake.svg">
