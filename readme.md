@@ -66,10 +66,6 @@ para criar soluções práticas e inovadoras.
 
 ## 🐍 Contribuições
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" 
-    srcset="https://raw.githubusercontent.com/claudiaassiss/claudiaassiss/output/github-contribution-grid-snake-dark.svg">
-  <img 
-    alt="Animação de contribuições do GitHub" 
-    src="https://raw.githubusercontent.com/claudiaassiss/claudiaassiss/output/github-contribution-grid-snake.svg">
-</picture>
+<img 
+  alt="Animação de contribuições do GitHub" 
+  src="https://raw.githubusercontent.com/claudiaassiss/claudiaassiss/output/github-contribution-grid-snake.svg">
